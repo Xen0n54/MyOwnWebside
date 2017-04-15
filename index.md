@@ -1,2 +1,2 @@
 # Blog
-Hier entsteht ein Blog.
+Hier entsteht ein Blog. \
